@@ -18,7 +18,7 @@ for i in range(100):
     records.append({"status": status, "value": value})
 
 # Save to file
-output_path = "./sample_100.json"
+output_path = "../sample_100.json"
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(records, f, indent=2)
 
