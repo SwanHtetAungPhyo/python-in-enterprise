@@ -1,0 +1,402 @@
+[
+  {
+    "status": "ok",
+    "value": 88.72
+  },
+  {
+    "status": "bad",
+    "value": 82.1
+  },
+  {
+    "status": "Bad",
+    "value": null
+  },
+  {
+    "status": "bad",
+    "value": 51
+  },
+  {
+    "status": "Bad",
+    "value": 33
+  },
+  {
+    "status": "OK",
+    "value": "86"
+  },
+  {
+    "status": "OK",
+    "value": 27
+  },
+  {
+    "status": "OK",
+    "value": 30
+  },
+  {
+    "status": "ok",
+    "value": 16.21
+  },
+  {
+    "status": "Bad",
+    "value": 62.74
+  },
+  {
+    "status": "ok",
+    "value": "54"
+  },
+  {
+    "status": "Bad",
+    "value": 70
+  },
+  {
+    "status": "error",
+    "value": null
+  },
+  {
+    "status": "bad",
+    "value": 97.6
+  },
+  {
+    "status": "bad",
+    "value": 37
+  },
+  {
+    "status": "OK",
+    "value": 97.73
+  },
+  {
+    "status": "bad",
+    "value": 78
+  },
+  {
+    "status": "error",
+    "value": 48
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": 84.67
+  },
+  {
+    "status": "OK",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": 78
+  },
+  {
+    "status": "Bad",
+    "value": "12"
+  },
+  {
+    "status": "ok",
+    "value": 55
+  },
+  {
+    "status": "bad",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": "92"
+  },
+  {
+    "status": "Bad",
+    "value": null
+  },
+  {
+    "status": "OK",
+    "value": 4.66
+  },
+  {
+    "status": "error",
+    "value": 53
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "bad",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": 5
+  },
+  {
+    "status": "OK",
+    "value": 4.43
+  },
+  {
+    "status": "error",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "OK",
+    "value": "48"
+  },
+  {
+    "status": "bad",
+    "value": 50.08
+  },
+  {
+    "status": "Bad",
+    "value": "82"
+  },
+  {
+    "status": "ok",
+    "value": "13"
+  },
+  {
+    "status": "error",
+    "value": "33"
+  },
+  {
+    "status": "ok",
+    "value": "16"
+  },
+  {
+    "status": "Bad",
+    "value": "49"
+  },
+  {
+    "status": "bad",
+    "value": "65"
+  },
+  {
+    "status": "error",
+    "value": "72"
+  },
+  {
+    "status": "error",
+    "value": 12
+  },
+  {
+    "status": "error",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": 85
+  },
+  {
+    "status": "bad",
+    "value": null
+  },
+  {
+    "status": "bad",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": 93
+  },
+  {
+    "status": "error",
+    "value": null
+  },
+  {
+    "status": "error",
+    "value": 96.56
+  },
+  {
+    "status": "bad",
+    "value": 20.84
+  },
+  {
+    "status": "error",
+    "value": 32
+  },
+  {
+    "status": "error",
+    "value": 66
+  },
+  {
+    "status": "OK",
+    "value": "99"
+  },
+  {
+    "status": "bad",
+    "value": "39"
+  },
+  {
+    "status": "bad",
+    "value": 68.64
+  },
+  {
+    "status": "error",
+    "value": 74
+  },
+  {
+    "status": "bad",
+    "value": 63.3
+  },
+  {
+    "status": "Bad",
+    "value": 21.44
+  },
+  {
+    "status": "OK",
+    "value": 5
+  },
+  {
+    "status": "OK",
+    "value": 27
+  },
+  {
+    "status": "OK",
+    "value": 18.62
+  },
+  {
+    "status": "Bad",
+    "value": 29.84
+  },
+  {
+    "status": "Bad",
+    "value": 74
+  },
+  {
+    "status": "error",
+    "value": 62.11
+  },
+  {
+    "status": "OK",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": 44
+  },
+  {
+    "status": "ok",
+    "value": "82"
+  },
+  {
+    "status": "OK",
+    "value": 68.21
+  },
+  {
+    "status": "bad",
+    "value": 58.66
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": 81
+  },
+  {
+    "status": "Bad",
+    "value": 47.56
+  },
+  {
+    "status": "Bad",
+    "value": "88"
+  },
+  {
+    "status": "OK",
+    "value": "89"
+  },
+  {
+    "status": "ok",
+    "value": "63"
+  },
+  {
+    "status": "error",
+    "value": null
+  },
+  {
+    "status": "bad",
+    "value": 56
+  },
+  {
+    "status": "ok",
+    "value": 6.41
+  },
+  {
+    "status": "Bad",
+    "value": 82.99
+  },
+  {
+    "status": "bad",
+    "value": 37.6
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": 51.14
+  },
+  {
+    "status": "OK",
+    "value": 25.68
+  },
+  {
+    "status": "Bad",
+    "value": "96"
+  },
+  {
+    "status": "OK",
+    "value": 3.95
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "Bad",
+    "value": 9
+  },
+  {
+    "status": "Bad",
+    "value": 26.57
+  },
+  {
+    "status": "Bad",
+    "value": null
+  },
+  {
+    "status": "ok",
+    "value": null
+  },
+  {
+    "status": "OK",
+    "value": 89
+  },
+  {
+    "status": "Bad",
+    "value": 99.86
+  },
+  {
+    "status": "bad",
+    "value": "16"
+  },
+  {
+    "status": "bad",
+    "value": 49
+  }
+]
