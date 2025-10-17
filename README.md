@@ -2,6 +2,12 @@
 
 ## Author: Swan Htet Aung Phyo
 
+
+Data Analyzer CLI 
+
+```bash
+  analyze-data --file data.json --thres 5 
+```
 ```
 .
 ├── README.md
